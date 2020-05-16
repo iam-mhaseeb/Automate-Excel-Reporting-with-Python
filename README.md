@@ -9,7 +9,7 @@ To use this repo just download the repository, Start creating something awesome!
 
 Things reuired<br>
 1. Python
-2. Openpyxcel
+2. Openpyxl
 3. Pandas
 
 ## Find it's video on Youtube
