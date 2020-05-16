@@ -14,7 +14,7 @@ Things reuired<br>
 
 ## Find it's video on Youtube
 
-* [Automate Excel Reporting with Python](https://youtu.be/gkX0XAZSThE) - Video on using & explaining this code on Youtube.
+* [Automate Excel Reporting with Python](https://youtu.be/gkX0XAZSThE) - Video on explanation of this code on Youtube.
 
 ## Contributing
 
